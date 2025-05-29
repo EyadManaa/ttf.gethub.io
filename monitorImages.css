@@ -1,0 +1,38 @@
+.item1 img{
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  width: 80%;
+}
+.item2 img{
+  position: absolute;
+  right: 25px;
+  top: 10px;
+  width: 75%;
+}
+
+
+.item4 img{
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  width: 80%;
+}
+
+.item7 img{
+  position: absolute;
+  right: -15px;
+  top: -20px;
+  width: 110%;
+}
+
+.item10 img{
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  width: 80%;
+}
+
+
+
+

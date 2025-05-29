@@ -1,0 +1,40 @@
+.feedContainer{
+    margin-top: 100px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 500px;
+    text-align: center;
+}
+
+
+label{
+    margin-top: 10px;
+}
+.name, .email{
+    padding: 5px;
+    margin-top: 5px;
+    width: 400px;
+}
+
+.feedBack{
+    width: 400px;
+    height: 200px;
+}
+.submit{
+    margin-top: 15px;
+    background-color: #2E8B57;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 400px;
+}
+.submit:hover{
+    background-color: #488e66;
+}
+.feedLine{
+    background-color: black;
+}
